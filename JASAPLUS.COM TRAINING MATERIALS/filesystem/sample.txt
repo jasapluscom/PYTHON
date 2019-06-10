@@ -1,0 +1,3 @@
+write new file content
+
+appended text
