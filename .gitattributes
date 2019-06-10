@@ -4,3 +4,6 @@
 *.js linguist-vendored
 webspeech/* linguist-vendored
 sampleweb/* linguist-vendored
+web1/* linguist-vendored
+static/* linguist-vendored
+templates/* linguist-vendored
