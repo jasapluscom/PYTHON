@@ -1,6 +1,6 @@
 *.css linguist-vendored
 *.html linguist-vendored
-*.htm linguist-vendored
 *.xml linguist-vendored
 *.js linguist-vendored
-
+webspeech/* linguist-vendored
+sampleweb/* linguist-vendored
