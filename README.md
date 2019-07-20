@@ -6,4 +6,4 @@ Python Source Codes
 
 
 Created by Ringlayer
-www.jasaplus.com - www.ringlayer.net - www.ringlayer.com
+www.jasaplus.com - www.ringlayer.net 
