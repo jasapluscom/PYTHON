@@ -1,9 +1,5 @@
 # PYTHON
 
-Python Source Codes
+Python Source Codes & PDF
 
-- python3 training materials at www.jasaplus.com
-
-
-Created by Ringlayer
-www.jasaplus.com - www.ringlayer.net 
+www.jasaplus.com
